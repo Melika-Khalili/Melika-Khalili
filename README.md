@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there 👋 I'm Melika Khalili
 
-<!--
-**Melika-Khalili/Melika-Khalili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Front-End Developer with expertise in building modern and responsive web applications.  
+I enjoy crafting clean and efficient code and turning ideas into interactive user experiences.
 
-Here are some ideas to get you started:
+### 🚀 My Skills:
+- **HTML5 & CSS3** — Creating semantic and accessible layouts  
+- **Tailwind CSS** — Rapid UI development with utility-first CSS  
+- **JavaScript (ES6+)** — Writing clean and modern JavaScript code  
+- **React.js** — Building reusable and dynamic components  
+- **Next.js** — Server-side rendering and static site generation for React apps  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently learning & exploring:
+- Advanced React patterns  
+- Performance optimization  
+- New features in Next.js  
+
+Feel free to check out my repositories and projects!
+
+📫 How to reach me: [your-email-or-linkedin-or-website]
+
+---
+
+Thanks for stopping by! ✨
+
