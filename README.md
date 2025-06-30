@@ -3,30 +3,22 @@
 I'm a passionate Front-End Developer with expertise in building modern and responsive web applications.  
 I enjoy crafting clean and efficient code and turning ideas into interactive user experiences.
 
-### 🚀 My Skills:
-- **HTML5 & CSS3** — Creating semantic and accessible layouts  
-- **Tailwind CSS** — Rapid UI development with utility-first CSS  
-- **JavaScript (ES6+)** — Writing clean and modern JavaScript code  
-- **React.js** — Building reusable and dynamic components  
-- **Next.js** — Server-side rendering and static site generation for React apps  
+### 🚀 My Skills
 
-### 📊 Skill Levels
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>  HTML5 &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>  CSS3 &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>  TailwindCSS &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>  JavaScript &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>  React.js &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>  Next.js
 
-- HTML5       ![HTML](https://img.shields.io/badge/HTML-90%25-brightgreen)
-- CSS3        ![CSS](https://img.shields.io/badge/CSS-85%25-blue)
-- TailwindCSS ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-80%25-teal)
-- JavaScript  ![JavaScript](https://img.shields.io/badge/JavaScript-85%25-yellow)
-- React.js    ![React](https://img.shields.io/badge/React-80%25-blueviolet)
-- Next.js     ![Next.js](https://img.shields.io/badge/Next.js-75%25-black)
+### 📈 GitHub Stats
 
-### 🌱 Currently learning & exploring:
-- Advanced React patterns  
-- Performance optimization  
-- New features in Next.js  
+![Melika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Melika-Khalili&show_icons=true&theme=radical)
 
-Feel free to check out my repositories and projects!
+### 📊 Top Languages
 
-📫 How to reach me: [your-email-or-linkedin-or-website]
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Melika-Khalili&layout=compact&theme=radical)
 
 ---
 
